@@ -15,4 +15,6 @@ Resident of São Paulo.
 
 ![image](https://github.com/user-attachments/assets/629ffe2b-7deb-4b9d-a2f7-f01c71f27ba7)  
 
-![Aq (1)](https://github.com/user-attachments/assets/ab5d5e2a-a128-4f1c-9583-7b735d71a136)
+![Aq (1)](https://github.com/user-attachments/assets/ab5d5e2a-a128-4f1c-9583-7b735d71a136)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Santos&show_icons=true&theme=dark)
