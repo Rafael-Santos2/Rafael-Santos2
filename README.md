@@ -19,12 +19,6 @@ Resident of São Paulo.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Santos&show_icons=true&theme=dark)[
 
-<source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rafael-Santos2&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
-
 <div align="start">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Santos2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="125" alt="languages graph"  />
 </div>
