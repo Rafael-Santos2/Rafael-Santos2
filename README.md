@@ -13,7 +13,7 @@
 - 🔁 Experiência com metodologias ágeis: **SCRUM** e **Kanban**  
 - 🛠️ Projetos com foco em arquitetura **CRUD** e boas práticas de código  
 - 🧠 Aprendizado constante em tecnologias front-end modernas  
-- 🌱 Atualmente aprendendo **ReactJS**, **TailwindCSS** e **APIs REST**
+- 🌱 Atualmente aprendendo **Responsividade**, **PHP** e **APIs**
 - 🎯 Busco oportunidades para evoluir como desenvolvedor e colaborar com projetos reais
 
 ---
