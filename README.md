@@ -53,8 +53,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Santos2&layout=compact&theme=dark&border_radius=10)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafael-Santos2&theme=dark&border_radius=10)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Rafael-Santos2&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
