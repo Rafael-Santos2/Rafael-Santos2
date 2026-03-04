@@ -1,14 +1,14 @@
 <h1 align="center">Olá! Eu sou o Rafael Araujo Santos 👋</h1>
 
 <p align="center">
-💻 Desenvolvedor Full Stack • Estudante SENAI/SESI • Apaixonado por tecnologia e design 🚀
+💻 Desenvolvedor Full Stack • Formado SENAI/SESI • Apaixonado por tecnologia e design 🚀
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 👨‍🎓 Cursando o Ensino Médio no SESI 265  
+- 👨‍🎓 Cursando Ciência da Computação na UNINOVE
 - 💻 Técnico em Desenvolvimento de Sistemas pelo SENAI  
 - 🧠 Desenvolvedor **Full Stack**, com conhecimento em front-end e back-end  
 - 🔁 Prática com metodologias ágeis: **SCRUM** e **Kanban**  
